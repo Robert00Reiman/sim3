@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/sim3/static/css/main.00a96472.css",
+    "main.js": "/sim3/static/js/main.e0adf650.js",
+    "static/media/background.jpeg": "/sim3/static/media/background.3cb9b93a28f02be75465.jpeg",
+    "index.html": "/sim3/index.html",
+    "main.00a96472.css.map": "/sim3/static/css/main.00a96472.css.map",
+    "main.e0adf650.js.map": "/sim3/static/js/main.e0adf650.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00a96472.css",
+    "static/js/main.e0adf650.js"
+  ]
+}
